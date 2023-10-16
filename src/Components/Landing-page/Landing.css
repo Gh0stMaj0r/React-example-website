@@ -1,0 +1,54 @@
+
+.landing {
+    height: 90vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #F5F7FA;
+}
+
+.home {
+    font-size: 25px;
+}
+
+span {
+    color: #4CAF4F;
+}
+
+.image {
+    width: 25vw;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+
+.register {
+    padding: 15px;
+    width: 6vw;
+    background-color: #4CAF4F;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.dots {
+    transform: translate(0, -5vh);
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+    height: 0.5vh;
+}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #4CAF4F;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+#active {
+    background-color: #4CAF4F;
+  }

@@ -1,0 +1,65 @@
+.page2 {
+    height: 120vh;
+    margin-bottom: 20vh;
+}
+
+.heading {
+    font-size: 2rem;
+    color: dimgray;
+}
+
+.clients {
+    text-align: center;
+    padding: 30px;
+}
+
+.companies {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4vw;
+    padding-bottom: 6vh;
+}
+
+.suitable {
+    text-align: center;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box {
+    box-shadow: 0 2px 5px rgba(171,190,209,.2);
+    width: 20vw;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text {
+    font-size: 15px;
+    width: 15vw;
+}
+
+.learn {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 100px;
+    gap: 8vw;
+}
+
+.hero-image {
+    margin-left: -8vw;
+    width: 20vw;
+}
+
+.text2 {
+    width: 40vw;
+    font-size: 18px;
+}

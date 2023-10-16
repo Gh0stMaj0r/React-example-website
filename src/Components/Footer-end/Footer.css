@@ -1,0 +1,38 @@
+.footer {
+    height: 40vh;
+    background-color: #333;
+    padding: 6rem;
+}
+
+.footer-row {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.footer-column {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 1vh;
+}
+
+.rights {
+    transform: translate(0, -4vh);
+}
+
+.text-bar {
+    padding: 0.5rem;
+    width: 15vw;
+    background-color: rgba(255,255,255,.2);
+    border: #333;
+    border-radius: 6px;
+}
+
+::placeholder {
+    color: white;
+}
+
+hr {
+    margin-top: 15vh;
+}

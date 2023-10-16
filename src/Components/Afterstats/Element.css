@@ -1,0 +1,17 @@
+.learn {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 100px;
+    gap: 8vw;
+}
+
+.hero-image {
+    margin-left: -8vw;
+    width: 20vw;
+}
+
+.text2 {
+    width: 40vw;
+    font-size: 18px;
+}

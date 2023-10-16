@@ -1,0 +1,46 @@
+.marketing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
+}
+
+.marketing-text {
+    text-align: center;
+    width: 40vw;
+}
+
+.image-boxes {
+    display: flex;
+    flex-direction: row;
+    gap: 5vw;
+}
+
+.marketing-image {
+    width: 20vw;
+    border-radius: 20px;
+    padding: 0;
+}
+
+.text-to-image {
+    display: flex;
+    flex-direction: row;
+    gap: 10vw;
+}
+
+.box1 {
+    transform: translate(0, -8vh);
+    background-color: #F5F7FA;
+    width: 14vw;
+    box-shadow: 0 5px 11px rgba(171,190,209,.4);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    height: 18vh;
+}
+
+.box-button {
+    color: #4CAF4F;
+    text-decoration: none;
+}

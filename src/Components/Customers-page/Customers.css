@@ -1,0 +1,27 @@
+.customers {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #F5F7FA;
+    padding: 30px;
+}
+
+.customer-text {
+    width: 40vw;
+}
+
+.tesla-image {
+    width: 30vw;
+    border-radius: 1rem;
+    margin-left: 5vw;
+    padding: 0;
+}
+
+.association {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 1.5vw;
+    margin-left: -15vw;
+}
