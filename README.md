@@ -1,3 +1,5 @@
+Example website made with React, I've used premade design and I wrote the code. In future coming optimization, phone version and back-end (including working login system)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
